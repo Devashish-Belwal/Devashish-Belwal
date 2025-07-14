@@ -1,6 +1,17 @@
+<h1 align="center">👋 Welcome, I'm <span style="color:#4db6ac">Devashish Belwal</span>!</h1>
+<p align="center">
+  🚀 Data Science Explorer | 🧠 ML Learner | 🎯 Learning in Public
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Devashish%20Belwal's%20DS%20Bootcamp%20Journey&descAlign=50&descSize=20" />
+</p>
+
+<!--
 <p align="center">
   <img src="![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)"/>
 </p>
+-->
 
 ## Hi there 👋
 * 👂 My name is Devashish Belwal
