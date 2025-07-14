@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Devashish%20Belwal's%20DS%20Bootcamp%20Journey&descAlign=50&descAlignY=75&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Devashish%20Belwal's%20DS%20Bootcamp%20Journey&descAlign=50&descAlignY=75&descSize=20" />
 
 </p>
 
