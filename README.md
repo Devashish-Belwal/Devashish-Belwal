@@ -4,7 +4,7 @@
 </p>-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Devashish%20Belwal's%20DS%20Bootcamp%20Journey&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20World&fontSize=40&fontAlign=50&fontColor=ffffff" />
 
 </p>
 
