@@ -1,7 +1,7 @@
-<h1 align="center">👋 Welcome, I'm <span style="color:#4db6ac">Devashish Belwal</span>!</h1>
+<!--<h1 align="center">👋 Welcome, I'm <span style="color:#4db6ac">Devashish Belwal</span>!</h1>
 <p align="center">
   🚀 Data Science Explorer | 🧠 ML Learner | 🎯 Learning in Public
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Devashish%20Belwal's%20DS%20Bootcamp%20Journey&fontSize=40&fontAlign=50&fontColor=ffffff" />
