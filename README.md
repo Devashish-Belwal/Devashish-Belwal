@@ -14,7 +14,7 @@
 </p>
 -->
 
-## Hi there 👋
+<!--## Hi there 👋-->
 * 👂 My name is Devashish Belwal
 * 👩 Pronouns: HE/Him
 * 🔭 I’m currently working on Learning Data Science
